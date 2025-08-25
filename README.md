@@ -11,7 +11,10 @@
   ``
   pip install keyboard
   ``
-  
+
+## Como utilizar?
+execute o arquivo .exe encontrado na pasta dist
+
 
 
 
