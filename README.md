@@ -2,4 +2,8 @@
 
 ## Libs utilizadas
 - PyAutoGui
-  ``pip install pyautogui``
+  
+  ``
+  pip install pyautogui
+  ``
+
