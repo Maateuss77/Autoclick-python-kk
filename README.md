@@ -6,4 +6,10 @@
   ``
   pip install pyautogui
   ``
+- Keyboard
+  ``
+  pip install keyboard
+  ``
+  
+
 
